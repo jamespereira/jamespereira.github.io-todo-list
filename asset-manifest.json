@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jamespereira/jamespereira.github.io-todo-list/static/css/main.06685e6e.chunk.css",
+    "main.js": "/jamespereira/jamespereira.github.io-todo-list/static/js/main.d3fd39ef.chunk.js",
+    "main.js.map": "/jamespereira/jamespereira.github.io-todo-list/static/js/main.d3fd39ef.chunk.js.map",
+    "runtime-main.js": "/jamespereira/jamespereira.github.io-todo-list/static/js/runtime-main.add25604.js",
+    "runtime-main.js.map": "/jamespereira/jamespereira.github.io-todo-list/static/js/runtime-main.add25604.js.map",
+    "static/js/2.cf5db4cc.chunk.js": "/jamespereira/jamespereira.github.io-todo-list/static/js/2.cf5db4cc.chunk.js",
+    "static/js/2.cf5db4cc.chunk.js.map": "/jamespereira/jamespereira.github.io-todo-list/static/js/2.cf5db4cc.chunk.js.map",
+    "index.html": "/jamespereira/jamespereira.github.io-todo-list/index.html",
+    "precache-manifest.0229302fd554a3d5a8fa962672ade3b7.js": "/jamespereira/jamespereira.github.io-todo-list/precache-manifest.0229302fd554a3d5a8fa962672ade3b7.js",
+    "service-worker.js": "/jamespereira/jamespereira.github.io-todo-list/service-worker.js",
+    "static/css/main.06685e6e.chunk.css.map": "/jamespereira/jamespereira.github.io-todo-list/static/css/main.06685e6e.chunk.css.map",
+    "static/js/2.cf5db4cc.chunk.js.LICENSE.txt": "/jamespereira/jamespereira.github.io-todo-list/static/js/2.cf5db4cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add25604.js",
+    "static/js/2.cf5db4cc.chunk.js",
+    "static/css/main.06685e6e.chunk.css",
+    "static/js/main.d3fd39ef.chunk.js"
+  ]
+}
